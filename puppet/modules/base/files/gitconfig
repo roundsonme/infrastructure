@@ -1,0 +1,7 @@
+[user]
+	name = "Karl Wall" 
+	email = kwall@@roundsonme.com
+[core]
+	editor = vim
+[rerere]
+	enabled = true
